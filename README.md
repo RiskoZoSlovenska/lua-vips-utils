@@ -1,4 +1,4 @@
-# lua-vips-utils
+# Utilities for lua-vips
 
 This is a small collection of utility functions I find useful when working with VIPS.
 
