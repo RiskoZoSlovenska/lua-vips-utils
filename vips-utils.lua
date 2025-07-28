@@ -115,7 +115,7 @@ local function rollToFrames(roll, frameHeight)
 		durations = roll:get("delay"),
 		n = nil,
 	}
-	if not type(frames.durations) == "table" then
+	if type(frames.durations) == "table" then
 		error("bad delay data in roll image", 2)
 	end
 
