@@ -1,6 +1,6 @@
 --[[lit-meta
 	name = "RiskoZoSlovenska/vips-utils"
-	version = "0.1.0"
+	version = "0.1.1"
 	homepage = "https://github.com/RiskoZoSlovenska/lua-vips-utils"
 	description = "A handful of utilities for working with VIPS"
 	tags = {"image-processing", "images", "vips", "libvips", "utilities"}
